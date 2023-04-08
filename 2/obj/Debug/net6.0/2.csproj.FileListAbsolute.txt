@@ -1,0 +1,15 @@
+/mnt/c/users/user/desktop/laba8/2/bin/Debug/net6.0/2
+/mnt/c/users/user/desktop/laba8/2/bin/Debug/net6.0/2.deps.json
+/mnt/c/users/user/desktop/laba8/2/bin/Debug/net6.0/2.runtimeconfig.json
+/mnt/c/users/user/desktop/laba8/2/bin/Debug/net6.0/2.dll
+/mnt/c/users/user/desktop/laba8/2/bin/Debug/net6.0/ref/2.dll
+/mnt/c/users/user/desktop/laba8/2/bin/Debug/net6.0/2.pdb
+/mnt/c/users/user/desktop/laba8/2/obj/Debug/net6.0/2.csproj.AssemblyReference.cache
+/mnt/c/users/user/desktop/laba8/2/obj/Debug/net6.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/users/user/desktop/laba8/2/obj/Debug/net6.0/2.AssemblyInfoInputs.cache
+/mnt/c/users/user/desktop/laba8/2/obj/Debug/net6.0/2.AssemblyInfo.cs
+/mnt/c/users/user/desktop/laba8/2/obj/Debug/net6.0/2.csproj.CoreCompileInputs.cache
+/mnt/c/users/user/desktop/laba8/2/obj/Debug/net6.0/2.dll
+/mnt/c/users/user/desktop/laba8/2/obj/Debug/net6.0/ref/2.dll
+/mnt/c/users/user/desktop/laba8/2/obj/Debug/net6.0/2.pdb
+/mnt/c/users/user/desktop/laba8/2/obj/Debug/net6.0/2.genruntimeconfig.cache
